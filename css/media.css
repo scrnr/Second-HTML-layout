@@ -656,7 +656,7 @@
 
     .banner {
         min-height: 180px;
-        padding: 25px 0 0 0;
+        padding: 15px 0 0 0;
     }
 
     .banner-icons-item {
@@ -698,6 +698,7 @@
     }
 
     .banner-the-year {
+        padding: 0;
         margin-left: 25px;
         font-size: 12px;
     }
@@ -711,6 +712,7 @@
 
     .banner-title {
         font-size: 17px;
+        line-height: 20px;
     }
 
     .banner-text {
